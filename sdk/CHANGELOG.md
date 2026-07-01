@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.26.0](https://github.com/opentdf/platform/compare/sdk/v0.25.0...sdk/v0.26.0) (2026-07-01)
+
+
+### Features
+
+* **policy:** add narrow attribute read API protos and generated code ([#3634](https://github.com/opentdf/platform/issues/3634)) ([5726720](https://github.com/opentdf/platform/commit/572672007abd7e0a3598f8303661487cfb0d2db5))
+
 ## [0.25.0](https://github.com/opentdf/platform/compare/sdk/v0.24.0...sdk/v0.25.0) (2026-06-29)
 
 
